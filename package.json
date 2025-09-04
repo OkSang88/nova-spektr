@@ -101,7 +101,7 @@
     "effector": "^23.1.0",
     "effector-forms": "2.0.0-next.0",
     "effector-react": "^23.1.0",
-    "electron": "^29.1.1",
+    "electron": "^35.7.5",
     "electron-log": "^5.1.2",
     "electron-store": "^8.1.0",
     "electron-updater": "^6.1.1",
