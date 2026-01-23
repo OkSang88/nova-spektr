@@ -109,7 +109,7 @@
     "graphql": "^16.8.1",
     "graphql-request": "^6.1.0",
     "i18next": "^21.8.13",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lottie-react": "^2.4.0",
     "matrix-js-sdk": "^30.3.0",
     "parity-scale-codec": "^0.6.1",
